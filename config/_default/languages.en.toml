@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "syzgy"
+title = "syzygy"
 
 [params]
   displayName = "EN"
@@ -11,18 +11,18 @@ title = "syzgy"
   dateFormat = "2 January 2006"
   # logo = "img/profile.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "A place for ideas and many more"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-   name = "satyaxx"
+   name = "satyaaxx"
 #   email = "youremail@example.com"
    image = "img/profile.jpg"
    imageQuality = 100
-   headline = "Meow is not a word but an emotion"
+   headline = "Nothing gold can stay"
    bio = "Tomfool"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+   # links = [
+   # { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -70,4 +70,4 @@ title = "syzgy"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  # ]
