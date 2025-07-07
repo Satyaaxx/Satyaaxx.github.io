@@ -1,6 +1,5 @@
 +++
 date = '2025-06-30T21:33:43+05:30'
-draft = true
 title = 'Pissed my Pants'
 description = 'A heartfelt rendition'
 +++
