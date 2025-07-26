@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poetry on syzygy</title>
+    <title>Poetry on syzgy</title>
     <link>http://localhost:1313/poetry/</link>
-    <description>Recent content in Poetry on syzygy</description>
+    <description>Recent content in Poetry on syzgy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>syzygy.satyaaxx@gmail.com (satyaaxx)</managingEditor>
+    <webMaster>syzygy.satyaaxx@gmail.com (satyaaxx)</webMaster>
     
     <lastBuildDate>Mon, 30 Jun 2025 21:41:11 +0530</lastBuildDate><atom:link href="http://localhost:1313/poetry/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +15,7 @@
       <title>Pissed my Pants</title>
       <link>http://localhost:1313/poetry/pissed_my_pants/</link>
       <pubDate>Mon, 30 Jun 2025 21:33:43 +0530</pubDate>
-      
+      <author>syzygy.satyaaxx@gmail.com (satyaaxx)</author>
       <guid>http://localhost:1313/poetry/pissed_my_pants/</guid>
       <description></description>
       

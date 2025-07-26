@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "syzygy"
+title = "syzgy"
 
 [params]
   displayName = "EN"
@@ -16,13 +16,13 @@ title = "syzygy"
 
 [params.author]
    name = "satyaaxx"
-#   email = "youremail@example.com"
+   email = "syzygy.satyaaxx@gmail.com"
    image = "img/profile.jpg"
    imageQuality = 100
    headline = "Nothing gold can stay"
    bio = "Tomfool"
-   # links = [
-   # { email = "mailto:hello@your_domain.com" },
+   links = [
+    { email = "mailto:syzygy.satyaaxx@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -70,4 +70,4 @@ title = "syzygy"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-  # ]
+  ]
